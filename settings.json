@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "thisapeakserver"
+    "username": "ederafkbot"
     ,
-    "password": "",
+    "password": "ederistuff",
     "type": "online"
   },
   "server": {
